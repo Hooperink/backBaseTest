@@ -8,4 +8,6 @@ Clear Architecture RULLEEZZ!!!!
 
 I know that context in View Model is a bad thing, but I hope you won't be too hard on me.
 
+Tests written for both algorithms.
+
 Hope to join your team!!! Have a nice day!
